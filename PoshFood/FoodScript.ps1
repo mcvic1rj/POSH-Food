@@ -26,6 +26,18 @@ $eggs=@"
 
 return $eggs
 }
+function get-bananas{
+$bananas=
+@"
+             _   
+           _ \'-_,#
+          _\'--','``|
+          \``---``  /
+           ``----'``
+"@
+return $bananas
+}
+
 #Template
 <#
 function get-(FoodName){
