@@ -1,7 +1,7 @@
 ﻿#
 # FoodScript.ps1
 #
-function Generate-Bacon{
+function Get-Bacon{
 $Bacon=@"
          __      _.._      
       .-'__``-._.'.--.'.__.,   
@@ -11,7 +11,7 @@ $Bacon=@"
 "@
 return $Bacon
 }
-function Generate-Eggs{ 
+function Get-Eggs{ 
 $eggs=@"
                      ___
             __..--"".--.``""--..__
