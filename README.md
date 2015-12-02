@@ -16,6 +16,7 @@ This script can be placed at and run from any location, and does not have any re
 
 Import script and Get-Bacon 
 
+![alt tag](http://i.imgur.com/WDSKpAm.png)
 
 ## Configuration
 
