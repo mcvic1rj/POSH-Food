@@ -1,4 +1,4 @@
-# CMU SIS Snapshot Controller
+# Powershell Food!
 
 A way to have all of your food delivered via powershell!
 
